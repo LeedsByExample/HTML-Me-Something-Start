@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-h3 {
+h2 {
     text-align: center;
 }
 
@@ -13,12 +13,28 @@ img {
     width: 50%;
 }
 
-#pink-header {
-    color:palevioletred;
+#donut-county-header {
+    color: #ff87eb;
+}
+
+#goose-game-header {
+    color: #3c6bd6;
+}
+
+#goat-sim-header {
+    color: #367313;
+}
+
+#octodad-header {
+    color: #fdb814;
 }
 
 header {
     padding: 25px 50px 10px;
+}
+
+footer {
+    padding-top: 25px;
 }
 
 body {
@@ -35,8 +51,3 @@ body {
     color: green;
 }
 
-/* 
-1. Use the element selector to give the <body> element a margin value of 8px and a display type of block. 
-2. Give a heading on your page the id of mainHeading and use the id selector in styles.css to apply a styling of your choosing.
-3. Give a paragraph on your page the id of testP and a class name of funParagraph. Use the class selector in styles.css and give it a styling of your choosing.
-*/
