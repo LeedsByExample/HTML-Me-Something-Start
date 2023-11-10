@@ -51,3 +51,15 @@ body {
     color: green;
 }
 
+p {
+    font-size: 20px;
+    color: white;
+}
+
+html {
+    background-color: black;
+}
+
+#subHeading {
+    color: white;
+}
